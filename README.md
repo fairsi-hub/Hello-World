@@ -1,2 +1,3 @@
 # Hello-World
-First github project
+First Github project
+I love coding.
